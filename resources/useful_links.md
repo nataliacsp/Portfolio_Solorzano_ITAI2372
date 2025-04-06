@@ -1,0 +1,3 @@
+- Bostrom, N. (2014). *Superintelligence*
+- OpenAI AGI Guidelines
+- McKinsey on AI in Industry
